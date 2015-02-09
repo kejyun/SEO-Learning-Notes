@@ -19,6 +19,25 @@
 ![使用者搜尋結果2](http://i.imgur.com/N46Iikb.png)
 
 
+
+## 名詞解釋
+
+### 搜尋引擎
+
+利用關鍵字或其他特定字詞,在網際網路上搜尋可用資料的一種電腦功能,或提 供這類功能的程式
+
+### <head>標記
+
+在HTML文件中標明標題的元素。該元素的內容將不會顯示於瀏覽器。
+
+### HTML
+
+超文本標記語言的縮寫,是說明網頁文件的語言。它是網頁的基本元素,包含文 件內容以及任何內嵌的超連結和圖片。
+
+### 搜尋查詢
+
+使用者在搜尋引擎查詢字詞時,輸入的單一或多個語詞。
+
 ## 參考資料
 
 * [Google 搜尋引擎最佳化 初學者指南](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
