@@ -32,5 +32,3 @@
 ## 參考資料
 
 * [Google 搜尋引擎最佳化 初學者指南](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
-* [搜尋結果剖析影片](http://googlewebmastercentral.blogspot.tw/2007/11/anatomy-of-search-result.html)
-* [Google搜尋結果網頁示意圖](https://support.google.com/websearch/answer/35891)
