@@ -23,8 +23,20 @@
 
  > 對您網站的所有網頁或大部分網頁使用同一個中繼描述標記
 
+## 控制文字數量
 
- ## 參考資料
+雖然搜尋引擎沒有說明字數限制，但明顯過多的文字描述，會被搜尋引擎判斷成有作弊嫌疑的描述文字，建議文字數量以不超過 `160` 個英文字符，也就是 `80` 個中文字以內。
+
+## 於meta內重覆關鍵字
+
+描述內需包含 1-2 次的關鍵字，這也就是為什麼一個網頁不適合超過3組關鍵詞的原因，因為過多的關鍵詞包含進描述標籤內，則會大大提高作弊的嫌疑，我們可以從搜尋結果看到，前十名幾乎沒有在描述內堆疊關鍵字的網站，主因就是早期在描述標籤內堆疊關鍵字的網站都已經被搜尋引擎清除了。
+
+## 撰寫吸引人的文案
+
+因為描述標籤內的文案等同於搜尋結果上所顯示出來代表該網站的描述，因此應該以吸引人的文案優先，吸引瀏覽者點擊才是上策，而不是為了塞入關鍵字，而造成文案變成無法閱讀的狀況。
+
+# 參考資料
 
  * [Google 搜尋引擎最佳化 初學者指南](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
  * [使用site: 運算子](http://www.brianwhite.org/2007/04/27/google-site-operator-an-ode-to-thee/)
+ * [SEO教學第11課： 影響網站排名的因素：Meta標籤對SEO優化的作用？ | 免費教學課程：seo關鍵字排名優化，淘寶網路行銷，網站架設網頁設計-台灣映鴻設計網](http://www.wide.com.tw/seo-teaching/1024)
