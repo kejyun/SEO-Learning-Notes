@@ -1,4 +1,9 @@
-GitBook Example
-=======
+# SEO 學習筆記
 
-Welcome in your GitBook!
+作者 : KeJyun
+
+Blog : http://blog.kejyun.com
+
+Facebook : http://fb.me/kejyunTaiwan
+
+Email : kejyun@gmail.com
