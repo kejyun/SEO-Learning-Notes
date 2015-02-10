@@ -58,3 +58,8 @@ Sitemap (網站架構) 是您網站上的一個簡單網頁，用於顯示網站
  * [Sitemap產生器指令碼](http://code.google.com/p/googlesitemapgenerator/)
  * [什麼是偏好網域](https://support.google.com/webmasters/answer/44231?hl=zh-Hant)
  * [Sitemap檔案指南](https://support.google.com/webmasters/answer/156184)
+ * [Google如何處理非文字檔案](https://support.google.com/webmasters/answer/72746)
+ * [404 HTTP狀態碼](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
+ * [自訂404網頁](https://support.google.com/webmasters/answer/93641)
+ * [404小工具](http://googlewebmastercentral.blogspot.tw/2008/08/make-your-404-pages-more-useful.html)
+ * [導致「找不到網頁」錯誤的網址來源](http://googlewebmastercentral.blogspot.tw/2008/10/webmaster-tools-shows-crawl-error.html)
