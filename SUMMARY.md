@@ -14,5 +14,8 @@
   * [網站導覽](seo_guide/SEOGuideNavigationREADME.md)
     * [說明](seo_guide/SEOGuideNavigationExplain.md)
     * [做法](seo_guide/SEOGuideNavigationPractice.md)
+  * [網站內容](seo_guide/SEOGuideWebsiteContentREADME.md)
+    * [說明](seo_guide/SEOGuideWebsiteContentExplain.md)
+    * [做法](seo_guide/SEOGuideWebsiteContentPractice.md)
 * [參考資料](reference/ReferenceREADME.md)
   * [文件](reference/ReferenceDocument.md)

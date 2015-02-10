@@ -52,6 +52,7 @@ Adobe Systems Incorporated 所開發的網路技術或軟體，可建立整合�
 
 * [Google 搜尋引擎最佳化 初學者指南](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
 * [網站管理員工具](https://www.google.com/webmasters/tools/home?hl=zh-TW)
+* [Bing - 網站管理員工具](http://www.bing.com/toolbox/webmaster)
 * [Sitemap產生器指令碼](http://code.google.com/p/googlesitemapgenerator/)
 * [什麼是偏好網域](https://support.google.com/webmasters/answer/44231?hl=zh-Hant)
 * [Sitemap檔案指南](https://support.google.com/webmasters/answer/156184)
@@ -60,3 +61,14 @@ Adobe Systems Incorporated 所開發的網路技術或軟體，可建立整合�
 * [自訂404網頁](https://support.google.com/webmasters/answer/93641)
 * [404小工具](http://googlewebmastercentral.blogspot.tw/2008/08/make-your-404-pages-more-useful.html)
 * [導致「找不到網頁」錯誤的網址來源](http://googlewebmastercentral.blogspot.tw/2008/10/webmaster-tools-shows-crawl-error.html)
+* [[教學]利用Bing網站管理員工具提交Sitemap (Yahoo也適用) – 香腸炒魷魚](http://sofree.cc/bing-webmaster/)
+
+> 附註：目前 Yahoo 與 Bing 都使用 Bing 網站管理工具登錄 sitemap 即可
+
+ ---
+
+***中國搜尋引擎 sitemap 登入***
+
+* [百度](http://zhanzhang.baidu.com/sitesubmit/index)
+* [360 搜索](http://info.so.360.cn/site_submit.html)
+* [搜狗](http://www.sogou.com/feedback/urlfeedback.php)

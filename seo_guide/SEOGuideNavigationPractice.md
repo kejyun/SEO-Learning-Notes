@@ -6,7 +6,7 @@
 
 ![使用者移除您的部分網址](http://i.imgur.com/aRrf2qr.png)
 
-## 準備兩種 Sitemap:分別供使用者和搜尋引擎使用
+## 準備兩種 Sitemap：分別供使用者和搜尋引擎使用
 
 Sitemap (網站架構) 是您網站上的一個簡單網頁，用於顯示網站架構，通常由一份網站網頁的層級清單組成。當訪客在您的網站上找不到某些特定網頁時，即可瀏覽該網頁。雖然搜尋引擎也會瀏覽該網頁，以便對您網站上的網頁進行更全面的檢索，但其主要目的還是為了方便訪客。
 您也可以使用 Google 的「網站管理員工具」提交 XMLSitemap，讓 Google 更容易發現您網站上的網頁。使用 Sitemap 檔案還有一個好處，就是您可以使用它來告知 Google 哪個版本的網址是您偏好的標準網址(例如:`http://brandonsbaseballcards.com/`或`http://www.brandonsbaseballcards.com/`;請瀏覽更多關於什麼是偏好網域的詳情)。Google 協助建立了開放原始碼的 Sitemap 產生器指令，以幫助您為自己的網站建立 Sitemap 檔案。如要進一步瞭解 Sitemap，請前往「網站管理員說明中心」，瀏覽實用的 Sitemap 檔案指南。
@@ -39,7 +39,7 @@ Sitemap (網站架構) 是您網站上的一個簡單網頁，用於顯示網站
 
  > 建立的 HTML Sitemap 僅列出網頁，而沒有進行整理
 
-## 建立實用的404網頁
+## 建立實用的 404 網頁
 
 使用者有時會因開啟無效連結或輸入錯誤的網址，而連至您網站中並不存在的網頁。使用自訂 404 網頁能夠確實幫助使用者返回您網站上的有效網頁，大幅改善使用者體驗。您的 404 網頁最好能提供返回您網站根網頁的連結，以及前往網站中熱門或相關內容的連結。Google為您提供了 404 小工具，您可以將其嵌入您的 404 網頁，即可自動產生許多實用的功能。您也可以使用「Google網站管理員工具」，找出導致「找不到網頁」錯誤的網址來源。
 
@@ -55,6 +55,7 @@ Sitemap (網站架構) 是您網站上的一個簡單網頁，用於顯示網站
 
  * [Google 搜尋引擎最佳化 初學者指南](http://static.googleusercontent.com/external_content/untrusted_dlcp/www.google.com.hk/zh-TW/hk/intl/zh-TW/webmasters/docs/search-engine-optimization-starter-guide-zh-tw.pdf)
  * [網站管理員工具](https://www.google.com/webmasters/tools/home?hl=zh-TW)
+ * [Bing - 網站管理員工具](http://www.bing.com/toolbox/webmaster)
  * [Sitemap產生器指令碼](http://code.google.com/p/googlesitemapgenerator/)
  * [什麼是偏好網域](https://support.google.com/webmasters/answer/44231?hl=zh-Hant)
  * [Sitemap檔案指南](https://support.google.com/webmasters/answer/156184)
