@@ -6,6 +6,8 @@ Blog : http://blog.kejyun.com
 
 Facebook : http://fb.me/kejyunTaiwan
 
+gitbook : http://kejyuntw.gitbooks.io/seo-learning-notes/
+
 Email : kejyun@gmail.com
 
 
