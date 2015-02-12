@@ -7,6 +7,7 @@
 * [Google 搜尋趨勢](http://www.google.com/trends/)
 * [Google 搜尋趨勢 - Google 網頁搜尋的熱門度 - 全球, 2004年至今](http://www.google.com/trends/explore)
 * [Google AdWords 關鍵字規劃工具](https://adwords.google.com/KeywordPlanner)
+* [Google PageRank Checker - Check Google page rank of any web pages](http://www.prchecker.info/)
 
 ## Yahoo & Bing
 
