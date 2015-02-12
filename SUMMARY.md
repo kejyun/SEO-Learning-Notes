@@ -33,6 +33,7 @@
     * [說明](seo_guide/SEO-Guide-Robot-Txt-Explain.md)
   * [行動網站](seo_guide/SEO-Guide-Mobile-Website-README.md)
     * [告知 Google 爬蟲](seo_guide/SEO-Guide-Mobile-Website-Tell-Google-Bot-README.md)
+    * [指導行動裝置](seo_guide/SEO-Guide-Mobile-Website-Direct-Mobile-User-README.md)
 * [參考資料](seo_reference/SEO-Reference-README.md)
   * [文件](seo_reference/SEO-Reference-Document.md)
   * [工具](seo_reference/SEO-Reference-Tool.md)
