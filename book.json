@@ -1,0 +1,11 @@
+{
+  "plugins": ["disqus","ga"],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "kejyun-seo-book"
+    },
+    "ga": {
+      "token": "UA-31063691-13"
+    }
+  }
+}
