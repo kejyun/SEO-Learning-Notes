@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介紹](README.md)
 * [SEO 指南](seo_guide/SEO-Guide-README.md)
   * [網頁標題](seo_guide/SEO-Guide-Web-Title-README.md)
     * [說明](seo_guide/SEO-Guide-Web-Title-Explain.md)
