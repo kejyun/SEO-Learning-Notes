@@ -4,6 +4,9 @@
 * [SEOquake - Chrome Web Store](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc/related?utm_source=chrome-ntp-icon)
 * [Open in SEMrush - Chrome Web Store](https://chrome.google.com/webstore/detail/open-in-semrush/chgblofegkokcojhgjfgfdbgbcalnpml?utm_source=chrome-ntp-icon)
 * [Majestic®: Marketing Search Engine and SEO Backlink Checker](https://majestic.com/)
+* [Moz | SEO Software, Tools & Resources for Smarter Marketing](https://moz.com/)
+* [World's Best SEO Tools and Free Search Software | Moz](https://moz.com/free-seo-tools)
+* [Open Site Explorer: Link Research & Backlink Checker | Moz](https://moz.com/researchtools/ose/)
 
 
 ## Google
