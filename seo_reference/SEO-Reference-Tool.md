@@ -1,5 +1,9 @@
 # SEO 工具參考資料
 
+## 套件
+* [SEOquake - Chrome Web Store](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc/related?utm_source=chrome-ntp-icon)
+* [Open in SEMrush - Chrome Web Store](https://chrome.google.com/webstore/detail/open-in-semrush/chgblofegkokcojhgjfgfdbgbcalnpml?utm_source=chrome-ntp-icon)
+
 ## Google
 
 * [關鍵字工具](https://adwords.google.com.tw/KeywordPlanner)
