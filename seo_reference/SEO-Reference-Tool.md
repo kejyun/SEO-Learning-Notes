@@ -3,6 +3,8 @@
 ## 套件
 * [SEOquake - Chrome Web Store](https://chrome.google.com/webstore/detail/seoquake/akdgnmcogleenhbclghghlkkdndkjdjc/related?utm_source=chrome-ntp-icon)
 * [Open in SEMrush - Chrome Web Store](https://chrome.google.com/webstore/detail/open-in-semrush/chgblofegkokcojhgjfgfdbgbcalnpml?utm_source=chrome-ntp-icon)
+* [Majestic®: Marketing Search Engine and SEO Backlink Checker](https://majestic.com/)
+
 
 ## Google
 
