@@ -40,6 +40,8 @@
   * [網站管理員工具](seo_guide/SEO-Guide-Webmasters-README.md)
     * [Google](seo_guide/SEO-Guide-Webmasters-Google-README.md)
     * [Yahoo & Bing](seo_guide/SEO-Guide-Webmasters-Yahoo-And-Bing-README.md)
+* [Search Console](Search-Console/Search-Console-README.md)
 * [參考資料](seo_reference/SEO-Reference-README.md)
   * [文件](seo_reference/SEO-Reference-Document.md)
   * [工具](seo_reference/SEO-Reference-Tool.md)
+  * [工具](seo_reference/SEO-Reference-Search-Console.md)
